@@ -11,7 +11,7 @@ export const Footer =() =>{
         <Card className="bg-dark text-white">
           <Card.Img src="imageFooter.jpg" alt="myimage"  className="koko"/>
           <Card.ImgOverlay>
-            <Card.Text>
+            
               <div className="content">
                 <div className="pro">
                   <a href="https://github.com/"  className="item">
@@ -40,7 +40,7 @@ export const Footer =() =>{
                   </a>
                 </div>
               </div>
-            </Card.Text>
+            
           </Card.ImgOverlay>
         </Card>
       </div>
